@@ -1,0 +1,114 @@
+.bg-banner {
+    background-image: url(../images/cover-image.jpeg);
+    background-size: 100%;
+    border-radius: 0%;
+    background-repeat: no-repeat;
+}
+
+input[type="search"] {
+    font-size: 15px;
+}
+
+.btn-lg{
+
+    background: #5624d0;
+    border-color: #5624d0;
+}
+
+.badge-style {
+    position: absolute;
+    z-index: 0;
+    margin-top: 10px;
+    
+}
+.fa-search{
+
+    color: white;
+}
+button[type="submit"]{
+    background-color: #5624d0;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+button[type="submit"]:hover{
+    background-color: #000000;
+    border-color: #000000;
+}
+.display-5{
+    color: #000000;
+}
+
+.lead{
+    color: #000000;
+}
+
+.btn-success{
+   background-color:  #ffffff;
+   border-color: #000000;
+   color: #000000;
+   
+}
+.btn-success:hover{
+    background-color: black;
+    border-color: black;
+    color:#ffffff;
+}
+.btn-danger{
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-danger:hover{
+    background-color: #ffffff;
+    border-color: black;
+    color: #000000;
+}
+
+.btn-light:hover{
+    color:  #5624d0;
+}
+
+.dropdown-item:hover{
+    color: #5624d0;
+}
+
+.price{
+    color: #000000;
+}
+
+.btn-bestseller{
+    background-color: #eceb98;
+    color: #3d3c0a;
+    padding: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.banner-box{
+    background-color: #d1d7dc;;
+    color: #000000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.mt-0{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+ .nav-link{
+color: #ffffff;
+}
+.flex-column li a{
+    color: white;
+}
+.footer{
+    background-color: #000000;
+}
